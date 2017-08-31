@@ -1,2 +1,2 @@
 # cpp_hash_performance
-C++ Hash Table Performance for lookup and insert ops
+C++ Hash Table Performance for lookup and insert ops. Visit directories for explanations.
