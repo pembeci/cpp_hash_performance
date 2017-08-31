@@ -1,0 +1,107 @@
+ratio: 1   filename:keys_4M_L6-20.txt
+
+Hash size: 4000000 (testing with 4000000)
+POS test set size: 1000000 (testing with 1000000)
+NEG test set size: 250000 (testing with 250000)
+
+Hash and test sets creation: 215.304 seconds
+
+POS test time total: 4.92911 seconds
+POS test time average lookup: 4.92911 microseconds
+
+NEG test time total: 1.10636 seconds
+NEG test time average lookup: 4.42543 microseconds
+
+Average lookup together: 4.82837 microseconds
+
+Lookup times per key length (microseconds):
+Key Length    POS_Avg      NEG_Avg         Key Total
+----------   ---------    ---------       -----------
+         6    4.79669      4.37445              82289
+         7    4.80499      4.35040              82344
+         8    4.79429      4.35764              82757
+         9    4.82965      4.36127              82606
+        10    4.81467      4.39478              83433
+        11    4.85309      4.37877              84186
+        12    4.81707      4.39329              82882
+        13    4.84215      4.37270              83446
+        14    4.83018      4.38089              84101
+        15    4.85845      4.38383              82940
+        16    5.11452      4.52656              83129
+        17    5.13872      4.52056              84108
+        18    5.13057      4.52732              83605
+        19    5.16413      4.53714              83976
+        20    5.13665      4.51864              84198
+        
+
+        
+        
+        ratio: 1   filename:keys_4M_L6-20.txt
+Hash size: 4000000 (testing with 4000000)
+POS test set size: 1000000 (testing with 1000000)
+NEG test set size: 250000 (testing with 250000)
+Hash and test sets creation: 218.01 seconds
+
+POS test time total: 5.00353 seconds
+POS test time average lookup: 5.00353 microseconds
+NEG test time total: 1.12656 seconds
+NEG test time average lookup: 4.50624 microseconds
+
+Average lookup together: 4.90407
+
+Lookup times per key length:
+Key Length    POS_Avg      NEG_Avg         Key Total
+----------   ---------    ---------       -----------
+         6    4.87194      4.46121              82289
+         7    4.89532      4.44222              82344
+         8    4.86669      4.42895              82757
+         9    4.89765      4.44699              82606
+        10    4.88669      4.45797              83433
+        11    4.91299      4.44294              84186
+        12    4.88839      4.47400              82882
+        13    4.90680      4.46582              83446
+        14    4.89837      4.46142              84101
+        15    4.94670      4.46674              82940
+        16    5.17265      4.60563              83129
+        17    5.22290      4.60157              84108
+        18    5.21013      4.62881              83605
+        19    5.24078      4.60953              83976
+        20    5.22430      4.59634              84198      
+
+
+ratio: 1   filename:keys_6M_L6-25.txt
+Hash size: 6000000 (testing with 6000000)
+POS test set size: 1500000 (testing with 1500000)
+NEG test set size: 1500000 (testing with 1500000)
+Hash and test sets creation: 423.291 seconds
+
+POS test time total: 7.91101 seconds
+POS test time average lookup: 5.27401 microseconds
+NEG test time total: 5.98871 seconds
+NEG test time average lookup: 3.99247 microseconds
+
+Average lookup together: 4.63324
+
+Lookup times per key length:
+Key Length    POS_Avg      NEG_Avg         Key Total
+----------   ---------    ---------       -----------
+         6    5.07475      3.89738             149773
+         7    5.10348      3.91230             148546
+         8    5.08705      3.92352             149490
+         9    5.10726      3.93382             148862
+        10    5.09682      3.92138             150953
+        11    5.13934      3.91512             149518
+        12    5.09497      3.94018             151139
+        13    5.14101      3.91701             150953
+        14    5.11667      3.93709             150920
+        15    5.13678      3.93581             151466
+        16    5.39513      4.05074             149255
+        17    5.42096      4.03844             150549
+        18    5.42203      4.06842             149832
+        19    5.44768      4.05226             149329
+        20    5.41844      4.05689             149741
+        21    5.45909      4.04796             150479
+        22    5.43343      4.05296             149811
+        23    5.47129      4.07366             150125
+        24    5.45306      4.08789             149608
+        25    5.46697      4.08667             149651        
