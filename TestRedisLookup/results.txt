@@ -3,7 +3,6 @@ ratio: 1   filename:keys_4M_L6-20.txt
 Hash size: 4000000 (testing with 4000000)
 POS test set size: 1000000 (testing with 1000000)
 NEG test set size: 250000 (testing with 250000)
-Hash and test sets creation: 51.567 seconds
 
 POS test time total: 59.5423 seconds
 POS test time average lookup: 59.5423 microseconds
@@ -21,7 +20,6 @@ ratio: 1   filename:keys_6M_L6-25.txt
 Hash size: 6000000 (testing with 6000000)
 POS test set size: 1500000 (testing with 1500000)
 NEG test set size: 1500000 (testing with 1500000)
-Hash and test sets creation: 1234.27 seconds
 
 POS test time total: 95.3492 seconds
 POS test time average lookup: 63.5661 microseconds
