@@ -13,7 +13,8 @@ Current algorithms tested:
  
  ## Results
  
- As discussed in chat:
+ As discussed in chat `std::unorderedmap` seems to be the best option:
  
+ ![chart](../charts/table.jpg)
  
 
