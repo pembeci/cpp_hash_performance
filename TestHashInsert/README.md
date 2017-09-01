@@ -16,7 +16,7 @@ A 6 million hash with key lengths 6-20 takes 192 seconds.
 ## Charts
 
 First chart shows in seconds how much each bucket (60000 keys) took for 6M size hash. Second chart shows cumulative time. 
-The last chart shows that if we remove the buckets which spike because of expansion average lookup time is between 15-25 microseconds per insert operation. The values can be found in the output files given in this repository.
+The last chart shows that if we remove the buckets which spike because of expansion, average lookup time is between 15-25 microseconds per insert operation (the smallest buckets in chart 2). The values used in these charts can be found in the [output file](keys_6M_L6-25.txt_times.txt) given in this repository.
 
 ![insert chart](../charts/insert1.jpg)
 ![insert chart2](../charts/insert2.jpg)
