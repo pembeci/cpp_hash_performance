@@ -5,7 +5,7 @@ Current algorithms tested:
 
  * std::unorederd_map
  * boost::unoredered_map
- * trie  - a radix tree implementation. modified from [here](https://github.com/kephir4eg/trie)
+ * trie  - a radix tree implementation. modified from [here](https://github.com/kephir4eg/trie).
  
  ## Dependencies
  
